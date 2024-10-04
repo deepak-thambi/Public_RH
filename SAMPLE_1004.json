@@ -2,32 +2,32 @@
  "items": [{
  "name": "Metric 1",
  "value": 150,
- "valueFormat": "N"
+ "valueFormat": "N",
  "indicator": "up"
  }, {
  "name": "Metric 2",
  "value": 20,
- "valueFormat": "PC"
+ "valueFormat": "PC",
  "indicator": "down"
  }, {
  "name": "Metric 3",
  "value": 400,
- "valueFormat": "PC"
+ "valueFormat": "PC",
  "indicator": "normal"
  }, {
  "name": "Metric 4",
  "value": 55,
- "valueFormat": "N"
+ "valueFormat": "N",
  "indicator": "info"
  }, {
  "name": "Metric 5",
  "value": 90,
- "valueFormat": "PC"
+ "valueFormat": "PC",
  "indicator": "important"
  } ,{
  "name": "Metric 6",
  "value": 120,
- "valueFormat": "PC"
+ "valueFormat": "PC",
  "indicator": "critical"
  }]
 }
